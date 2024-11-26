@@ -1,0 +1,28 @@
+thead{
+    font-size: larger;
+    background-color: darkgray;
+}
+tr,th ,td {
+    padding: 5px;
+}
+tbody{
+    text-align: center;
+}
+td.days{
+    background-color: darkgray;
+    font-size: large;
+    font-weight: bold;
+}
+
+td.Forms.Tutors2{ writing-mode: vertical-lr;
+    font-size:40px;
+    text-align: center;
+}
+table{
+    font-family: sans-serif;
+    
+}
+
+p{
+    font-family: sans-serif;
+}
